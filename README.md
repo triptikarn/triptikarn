@@ -8,7 +8,7 @@
 
 I build interfaces that feel alive — responsive pages, interactive dashboards and small web apps with HTML, CSS, JavaScript and React. Every project here started as a blank file and ended as something you can click, search, play and explore.
 
-💻 [GitHub](https://github.com/triptikarn) · ✉️ triptikarn6@gmail.com
+💻 [GitHub](https://github.com/triptikarn) · 💼 [LinkedIn](https://www.linkedin.com/in/tripti-karn-39233333b/) · ✉️ triptikarn6@gmail.com
 
 ---
 
@@ -102,6 +102,7 @@ Responsive design   ████████████████████
 |  |  |
 | --- | --- |
 | 💻 GitHub | [@triptikarn](https://github.com/triptikarn) |
+| 💼 LinkedIn | [Tripti Karn](https://www.linkedin.com/in/tripti-karn-39233333b/) |
 | ✉️ Email | triptikarn6@gmail.com |
 | 🌐 Portfolio | [triptikarn.github.io/portfolio](https://triptikarn.github.io/portfolio/) |
 
