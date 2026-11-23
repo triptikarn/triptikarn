@@ -73,6 +73,8 @@ sketch → code → refine → ship
 | [Periodic-Table-](https://github.com/triptikarn/Periodic-Table-) | Interactive 3D periodic table | JavaScript · 3D |
 | [QR-code-generator](https://github.com/triptikarn/QR-code-generator) | Create QR codes instantly in the browser | HTML · CSS · JS |
 | [simple-text-to-speech](https://github.com/triptikarn/simple-text-to-speech) | Converts text into speech with a clean, minimal interface | Web Speech API |
+| [TaskFlow](https://github.com/triptikarn/taskflow) | Full-stack task manager with JWT auth — Express + MongoDB REST API | Node.js · Express · MongoDB · JWT |
+| [Expense Tracker](https://github.com/triptikarn/expense-tracker) | Full-stack personal finance app with category summaries and monthly reports | Node.js · Express · MongoDB · JWT |
 
 **More experiments:** [Lamp--login-UI](https://github.com/triptikarn/Lamp--login-UI) (a login page with a working lamp), [Modern-Hero-carousel](https://github.com/triptikarn/Modern-Hero-carousel), [Routing-useState-cards](https://github.com/triptikarn/Routing-useState-cards), [js-learning](https://github.com/triptikarn/js-learning) and a full-stack MERN daily planner in progress.
 
