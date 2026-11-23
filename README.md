@@ -4,7 +4,7 @@
 
 ### TRIPTI KARN
 
-**Front-End Web Developer · React · JavaScript · UI Builder**
+**Full Stack Developer · Frontend & Backend · Node.js · Express · MongoDB · JavaScript**
 
 I build interfaces that feel alive — responsive pages, interactive dashboards and small web apps with HTML, CSS, JavaScript and React. Every project here started as a blank file and ended as something you can click, search, play and explore.
 
@@ -56,6 +56,10 @@ sketch → code → refine → ship
 **Frameworks & Tools**
 
 ![React](https://img.shields.io/badge/React-1A0B16?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-1A0B16?style=for-the-badge&logo=vite&logoColor=646CFF) ![Git](https://img.shields.io/badge/Git-1A0B16?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1A0B16?style=for-the-badge&logo=github&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS_Code-1A0B16?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-1A0B16?style=for-the-badge&logo=nodedotjs&logoColor=339933) ![Express](https://img.shields.io/badge/Express-1A0B16?style=for-the-badge&logo=express&logoColor=FFFFFF) ![MongoDB](https://img.shields.io/badge/MongoDB-1A0B16?style=for-the-badge&logo=mongodb&logoColor=47A248) ![REST APIs](https://img.shields.io/badge/REST_APIs-1A0B16?style=for-the-badge) ![JWT](https://img.shields.io/badge/JWT-1A0B16?style=for-the-badge&logo=jsonwebtokens&logoColor=000000)
 
 ---
 
